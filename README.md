@@ -17,7 +17,7 @@
 - 🚀 Je construis des applications web avec **Laravel** & **Vue.js**
 - 🌱 En train d'explorer **Python** et l'écosystème **Data Engineering**
 - 🎯 Objectif : devenir **Data Engineer** et travailler sur des projets IA à fort impact
-- 📫 Me contacter : [yazidyarou13@gmail.com](mailto:yazidyarou13@gmail.com)
+- 📫 Me contacter : [yarouyazid9@gmail.com](mailto:yarouyazid9@gmail.com)
 
 ---
 
