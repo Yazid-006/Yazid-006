@@ -16,11 +16,6 @@ I'm a Full-Stack Developer and Software Engineering student at IFRI / Universit�
 
 Currently exploring AI and considering a specialization in Data Engineering at the master's level.
 
-- 🏫 **IFRI** — Institut de Formation et de Recherche en Informatique, Bénin
-- 🔭 Leveling up on **Python** and data pipelines
-- 💬 Talk to me about **Laravel**, **Vue.js**, or anything **data-related**
-- 📬 [yazidyarou13@gmail.com](mailto:yazidyarou13@gmail.com)
-
 ---
 
 ### Stack
@@ -34,13 +29,21 @@ Currently exploring AI and considering a specialization in Data Engineering at t
 ### Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yazid-006&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="160"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yazid-006&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Yazid-006&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=12" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yazid-006&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yazid-006&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github&border_radius=12" height="175"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yazid-006&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=12" height="175"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yazid-006&theme=tokyonight&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D" />
 </div>
 
 ---
@@ -48,7 +51,7 @@ Currently exploring AI and considering a specialization in Data Engineering at t
 ### Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yazid-006&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yazid-006&bg_color=1a1b27&color=628fdb&line=3b82f6&point=ffffff&area=true&area_color=1e3a5f&hide_border=true&custom_title=Contribution%20Graph&radius=6" />
 </div>
 
 ---
