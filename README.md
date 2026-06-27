@@ -26,7 +26,7 @@ Real-time quiz engine for recruiters. Freemium model with role-based access, PDF
 
 ---
 
-### [QuizZy](https://github.com/Yazid-006) — Real-Time Multiplayer Quiz
+### QuizZy — Real-Time Multiplayer Quiz
 > Laravel + Vue.js + TypeScript + Reverb • Deployed on Railway + Vercel
 
 The foundation that led to Testify. Real-time multiplayer game rooms, live scoring, host/player roles. Established the WebSocket + Sanctum auth pattern reused across projects.
@@ -83,10 +83,8 @@ Full e-commerce platform for a clothing brand in Bénin. Custom order management
 
 <div align="center">
 
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yazid-yarou-47330a350)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yarouyazid9@gmail.com)
 
 </div>
 
