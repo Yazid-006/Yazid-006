@@ -3,40 +3,58 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:3b82f6&height=170&section=header&text=YAROU%20Yazid&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Software%20Engineering%20·%20IFRI%20/%20Université%20d'Abomey-Calavi&descAlignY=62&descSize=15&descColor=94a3b8)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=680&lines=Full-Stack+Developer+%26+Software+Eng.+Student;Laravel+%2B+Vue.js+%7C+Clean+Architecture;Building+real+products+%40+IFRI%2C+Bénin;Open+to+freelance+%E2%80%94+Fiverr+%2F+Upwork)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=680&lines=Full-Stack+Developer+%40+IFRI%2C+Bénin;Laravel+%2B+Vue.js+%7C+Clean+%26+Readable+Code;Open+to+freelance+—+Fiverr+%2F+Upwork)](https://git.io/typing-svg)
+
+🇫🇷 [Français](#-à-propos) · 🇬🇧 [English](#-about)
 
 </div>
 
 ---
 
-## 👋 Hey, I'm Yazid
+## 🇫🇷 À propos
 
-Full-Stack Developer based in **Cotonou, Bénin**. I build production-ready web apps with a focus on clean architecture, real-time features, and local market needs. Currently in L2 Software Engineering at **IFRI / UAC**, and exploring a master's specialization in **AI & Data Engineering**.
+Je suis Yazid, développeur full-stack en L2 Génie Logiciel à l'IFRI (Bénin). Je construis des apps web qui tournent en prod — pas des projets de démo.
 
-Available for **freelance missions** — web apps, APIs, SaaS products.
+Ce qui me motive vraiment, c'est pas juste faire fonctionner un programme. C'est écrire un code qu'un autre développeur peut reprendre sans se perdre. Comme le dit Martin Fowler : *"N'importe qui peut écrire un code qu'un ordinateur peut comprendre. Les bons développeurs écrivent un code que les humains peuvent comprendre."* C'est ça ma boussole.
+
+Disponible pour des missions freelance.
 
 ---
 
-## 🚀 Featured Projects
+## 🇬🇧 About
 
-### [Testify](https://testify-vert.vercel.app) — Candidate Evaluation Platform
-> B2B SaaS • Laravel + Vue.js + TypeScript + WebSockets (Reverb) • Deployed on Railway + Vercel
+I'm Yazid, a full-stack developer and L2 Software Engineering student at IFRI, Benin. I build web apps that ship to production — not just portfolio pieces.
 
-Real-time quiz engine for recruiters. Freemium model with role-based access, PDF reports via DomPDF, and live candidate sessions via Laravel Reverb WebSockets. Auth with Sanctum.
+What drives me isn't just making things work. It's writing code that the next developer can actually read and maintain. Martin Fowler said it best: *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."* That's the standard I hold myself to.
+
+Open to freelance work.
+
+---
+
+## 🚀 Projets / Projects
+
+### Testify — Candidate Evaluation Platform
+`Laravel` `Vue.js` `TypeScript` `WebSockets` `MySQL`
+
+Plateforme SaaS B2B pour les recruteurs. Sessions de quiz en temps réel via Laravel Reverb, rapports PDF automatiques, accès multi-rôles. Déployé sur Railway + Vercel.
+
+→ [testify-vert.vercel.app](https://testify-vert.vercel.app)
 
 ---
 
 ### QuizZy — Real-Time Multiplayer Quiz
-> Laravel + Vue.js + TypeScript + Reverb • Deployed on Railway + Vercel
+`Laravel` `Vue.js` `TypeScript` `Reverb`
 
-The foundation that led to Testify. Real-time multiplayer game rooms, live scoring, host/player roles. Established the WebSocket + Sanctum auth pattern reused across projects.
+Le projet qui a posé les bases de Testify. Salles multijoueur en temps réel, scoring live, gestion des rôles hôte/joueur.
 
 ---
 
-### [Le Général des Vêtements](https://lgv.store) — E-Commerce Platform
-> Laravel • Hosted on Hostinger • FedaPay live payment integration
+### Le Général des Vêtements — E-Commerce
+`Laravel` `FedaPay` `Hostinger`
 
-Full e-commerce platform for a clothing brand in Bénin. Custom order management, FedaPay payment gateway integration (mobile money + card), SSH deployment workflow on Hostinger.
+Site e-commerce pour une boutique de vêtements au Bénin. Intégration du paiement mobile money via FedaPay, déploiement SSH sur Hostinger.
+
+→ [lgv.store](https://lgv.store)
 
 ---
 
@@ -48,11 +66,11 @@ Full e-commerce platform for a clothing brand in Bénin. Custom order management
 
 </div>
 
-**Frontend** — Vue.js 3, TypeScript, Vite, HTML/CSS  
-**Backend** — Laravel, PHP, Sanctum, Reverb (WebSockets), DomPDF  
-**Database** — MySQL  
-**DevOps** — Railway, Vercel, Hostinger, Git  
-**Learning** — Flutter, React Native, Data Engineering
+**Frontend** — Vue.js 3, TypeScript, Vite  
+**Backend** — Laravel, Sanctum, Reverb (WebSockets)  
+**Base de données** — MySQL  
+**Déploiement** — Railway, Vercel, Hostinger  
+**En cours** — Flutter, React Native
 
 ---
 
