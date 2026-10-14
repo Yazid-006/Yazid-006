@@ -2,18 +2,14 @@
   <img src="assets/header.svg" width="100%" alt="Yazid YAROU, full-stack and mobile developer from Cotonou, Benin">
 </p>
 
-<p align="center">
-  I build web apps with <b>Laravel</b> and <b>Vue 3</b>, mobile apps with <b>React Native</b>,<br>
-  and I try to write code the next developer can pick up without asking me.
-</p>
+I'm **YAROU Yazid**, a Software Engineering student at the Institut de Formation et de Recherche en Informatique (IFRI). I'm passionate about everything related to Artificial Intelligence and data, and I like to understand a problem before trying to solve it. That's why I build websites and apps I would want to use myself. Every project is a chance for me to learn, sharpen my skills and fix a real problem.
 
-<details align="center">
+<details>
 <summary><b>Version française</b></summary>
 <br>
-Je développe des applications web avec <b>Laravel</b> et <b>Vue 3</b>, des applications mobiles avec <b>React Native</b>,<br>
-et j'essaie d'écrire du code qu'un autre développeur peut reprendre sans avoir à me demander.<br><br>
-L3 Génie Logiciel à l'IFRI · stages chez <b>Waouh Monde</b> (fullstack) et <b>Brillio Africa</b> (mobile) · disponible en freelance.
-<br><br>
+
+Je me nomme **YAROU YAZID**, étudiant en Génie Logiciel à l'Institut de Formation et de Recherche en Informatique. Passionné par tout ce qui touche à l'Intelligence Artificielle et aux données, j'aime comprendre les problèmes avant de chercher à les résoudre. Ainsi je développe des sites et des apps que j'aurais moi-même envie d'utiliser. Chaque projet est pour moi une occasion d'apprendre, d'améliorer mes compétences et de pallier un problème.
+
 </details>
 
 <br>
