@@ -16,9 +16,7 @@ Je me nomme **YAROU YAZID**, étudiant en Génie Logiciel à l'Institut de Forma
 
 ## <img src="assets/icons/about.svg" width="26" align="top"> About
 
-<img src="assets/about.svg" width="100%" alt="About: full-stack and mobile developer in Cotonou, Benin. Laravel, Vue 3, TypeScript, React Native. Software Engineering at IFRI.">
-
-Two internships so far: full-stack at **Waouh Monde**, where our team built an app to manage a vehicle sales lot, and mobile at **Brillio Africa**, on the React Native side of an offline-first app that syncs with its server.
+<img src="assets/about.svg" width="100%" alt="About: full-stack and mobile developer in Cotonou, Benin, studying Software Engineering at IFRI.">
 
 <br>
 
