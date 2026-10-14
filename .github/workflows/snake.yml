@@ -18,14 +18,15 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate snake SVGs
-        uses: Platane/snk@v3
+      - uses: actions/setup-node@v4
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/snake-papier.svg?color_snake=#1c1b18&color_dots=#e6dfd0,#b7cbb8,#7aa18a,#3d7a5f,#1f5c45&color_dot_border=#d9d0bf
+          node-version: 20
+
+      - name: Draw contribution snake
+        run: node scripts/snake.mjs dist/snake-papier.svg
+        env:
+          GITHUB_USER: ${{ github.repository_owner }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v4
